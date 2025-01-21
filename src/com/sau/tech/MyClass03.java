@@ -1,5 +1,4 @@
 package com.sau.tech;
-
 import java.util.Scanner;
 //import  java.lang.String;
 
@@ -20,7 +19,7 @@ public class MyClass03 {
 
         tax10 = empSalary * 10 / 100;
         System.out.println("You name: " + empName);
-        System.out.println("You name: " + empSalary);
+        System.out.println("You salary: " + empSalary);
         System.out.println("TAX pay: " + tax10 + "Baht");
 
 
